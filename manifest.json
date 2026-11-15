@@ -1,0 +1,13 @@
+{
+  "background_color": "#1a1425",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "VIVENE MESSENGER",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "VIVENE",
+  "start_url": "/",
+  "theme_color": "#9d65c9",
+  "id": "vivene-messenger",
+  "description": "แอปแชท VIVENE — เชื่อมต่อทุกคนที่คุณรัก"
+}
