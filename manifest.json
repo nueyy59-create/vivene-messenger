@@ -9,5 +9,13 @@
   "start_url": "/",
   "theme_color": "#9d65c9",
   "description": "แอปแชท VIVENE — เชื่อมต่อทุกคนที่คุณรัก",
-  "id": "vivene-messenger"
+  "id": "vivene-messenger",
+  "icons": [
+    {
+      "src": "app-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
+  
