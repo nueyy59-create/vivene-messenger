@@ -1,2 +1,2 @@
 # vivene-messenger
-แอปแชทน่องvivene
+แอปแชทน้องvivene
