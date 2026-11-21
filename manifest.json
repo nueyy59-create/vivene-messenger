@@ -4,11 +4,11 @@
   "display": "standalone",
   "name": "VIVENE MESSENGER",
   "orientation": "any",
-  "scope": "/vivene-messenger/",
+  "scope": "./",
   "short_name": "VIVENE",
-  "start_url": "/vivene-messenger/",
+  "start_url": "./",
   "theme_color": "#9d65c9",
-  "id": "/vivene-messenger/",
+  "id": "./",
   "description": "แอปแชท VIVENE — เชื่อมต่อทุกคนที่คุณรัก",
   "icons": [
     {
